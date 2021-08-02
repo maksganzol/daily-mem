@@ -1,16 +1,15 @@
 # daily_mem
 
-A new Flutter project.
+## Max's pet project
 
-## Getting Started
+## Major app goals and features
 
-This project is a starting point for a Flutter application.
+- All your photos and other memelike data from all apps on your device can be aggregated and managed by date-time and other criterias
+- Integrations with popular apps:
+  - [Telegram](https://core.telegram.org/)
+  - [Viber](https://developers.viber.com/docs/api/rest-bot-api/)
+  - [Instagram](https://developers.facebook.com/docs/instagram-api/)
+  - [etc.](https://www.google.com/search?q=etcetera)
+- Analitics (Куда же без этого)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our friendly team consist of 1 developer: [Maksym Tsurkan](https://t.me/abstract_factory)
